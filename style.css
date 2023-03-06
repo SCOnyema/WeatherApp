@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    padding-top: 15px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(0, 115, 153);
+    font-size: 1.8rem;
+    font-family: sans-serif;
+    color: rgb(7, 9, 10);
+}
+.container {
+    height: 20rem;
+    width: 20rem;
+    background-color: rgb(179, 236, 255);
+    text-align: center;
+    padding-top: 12px;
+    border-radius: 16px;
+    border: 2px solid rgb(0, 96, 128);
+}
+footer{
+    font-size: 0.8rem;
+    font-style: italic;
+    font-family: "Courier New";
+}
